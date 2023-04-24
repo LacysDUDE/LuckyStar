@@ -60,3 +60,65 @@ background-color:#FFFFFF;
     color: #FFFFFF;
     z-index: 5;
 }
+.egy{
+position: absolute;
+width: 137px;
+height: 26px;
+left: 404px;
+top: 930px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+color: #000000;
+}
+.keto{
+    position: absolute;
+width: 132px;
+height: 21px;
+left: 588px;
+top: 932px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+color: #393939;
+}
+.haom{
+    position: absolute;
+width: 149px;
+height: 21px;
+left: 767px;
+top: 932px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+
+
+
+color: #393939;
+}
+.negy{
+    position: absolute;
+width: 425px;
+height: 21px;
+left: 404px;
+top: 962px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #6F6F6F;
+}
