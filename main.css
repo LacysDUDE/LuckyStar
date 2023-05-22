@@ -9,10 +9,21 @@
 background-color:#FFFFFF;
 
 }
+navbar-1{
+    position: absolute;
+    width: 19200px;
+    height: 50px;
+    left: 0px;
+    top: -1px;
+    background: rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(5px);
+    z-index: 1000;
+}
+
 
 .fohatter{
     position: absolute;
-    width: 1440px;
+    width: 1920px;
     height: 245px;
     left: 0px;
     top: 0px;
@@ -60,25 +71,26 @@ background-color:#FFFFFF;
     color: #FFFFFF;
     z-index: 5;
 }
-.egy{
+.footer{
 position: absolute;
 width: 137px;
 height: 26px;
 left: 404px;
-top: 930px;
-
+top: 928px;
+gap: 5;
 font-family: 'DM Sans';
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
 line-height: 26px;
 color: #000000;
+
 }
 .keto{
     position: absolute;
 width: 132px;
 height: 21px;
-left: 588px;
+left: 600px;
 top: 932px;
 
 font-family: 'DM Sans';
@@ -89,10 +101,10 @@ line-height: 21px;
 color: #393939;
 }
 .haom{
-    position: absolute;
-width: 149px;
+position: absolute;
+width: 200px;
 height: 21px;
-left: 767px;
+left: 800px;
 top: 932px;
 
 font-family: 'DM Sans';
@@ -110,7 +122,7 @@ color: #393939;
 width: 425px;
 height: 21px;
 left: 404px;
-top: 962px;
+top: 980px;
 
 font-family: 'DM Sans';
 font-style: normal;
